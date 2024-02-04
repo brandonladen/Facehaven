@@ -1,7 +1,7 @@
 ## We are working on a module that does the following;
 - Photo search solution - using a photo search for similar persons or close likeness
 - Face progression solution of current age n where n is years from when the available photo was taken
-- More features to come  
+- More features to come  ...
 
 ## Running locally (use python 3.11)
 - create a database and update the `settings.py` located inside `picSearch/picSearch` path
