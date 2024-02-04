@@ -15,7 +15,7 @@
 ## CONTRIBUTORS
 
 	1. BRANDON ODHIAMBO <brandonladen486@gmail.com>
-	2. PETER OKECH <okechpj@gmain.com>
+	2. PETER OKECH <okechpj@gmail.com>
 	3. ANDERSON KEMBOI <kemboianderson27@gmail.com>
 	4. ELI KIPROP <elikiprop42@gmail.com>
 
