@@ -1,0 +1,32 @@
+.missing-person{
+    padding-top: 10px;
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.missing{
+    border: .5px solid grey;
+    padding: 20px;
+    border-radius: 6px;
+    margin: 20px;
+}
+.missing-name{
+    line-height: 10px;
+    margin-top: 20px;
+}
+.missing-name h4{
+    color: orange;
+}
+.missing-img img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+.missing-name .btn{
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 20px;
+}
