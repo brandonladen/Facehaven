@@ -14,15 +14,21 @@
     margin: 20px;
 }
 .missing-name{
-    line-height: 10px;
+    
     margin-top: 20px;
 }
 .missing-name h4{
     color: orange;
 }
+.missing-name .btn{
+    background-color: orange;
+    border: none;
+    padding: 10px;
+    margin-top: 7px;
+}
 .missing-img img{
-    width: 200px;
-    height: 200px;
+    width: 180px;
+    height: 180px;
     object-fit: cover;
 }
 .missing-name .btn{

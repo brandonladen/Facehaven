@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!-- Boxicons -->
+	<link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+	<!-- My CSS -->
+	<link rel="stylesheet" href="dashboard.css">
+
+	<title>FaceHaven | Dashboard</title>
+</head>
+<body>
+
+
+	<!-- SIDEBAR -->
+	<section id="sidebar">
+		<a href="home.html" class="brand">
+			<i class='bx bxs-smile'></i>
+			<span class="text">FaceHaven</span>
+		</a>
+		<ul class="side-menu top">
+			<li class="active">
+				<a href="analytics.html"  class="nav-link" data-target="data analysis">
+					<i class='bx bxs-dashboard' ></i>
+					<span class="text">Dashboard</span>
+				</a>
+			</li>
+			<li>
+				<a href="cart.html" class="nav-link" data-target="missing-people">
+					<i class='bx bxs-shopping-bag-alt' ></i>
+					<span class="text">Cases of Missing People</span>
+				</a>
+			</li>
+			<li>
+				<a href="found-cart.html" class="nav-link" data-target="found-people">
+					<i class='bx bxs-doughnut-chart' ></i>
+					<span class="text">Cases of Found People</span>
+				</a>
+			</li>
+			
+		</ul>
+		<ul class="side-menu">
+			
+			<li>
+				<a href="#" class="logout">
+					<i class='bx bxs-log-out-circle' ></i>
+					<span class="text">Logout</span>
+				</a>
+			</li>
+		</ul>
+	</section>
+	<!-- SIDEBAR -->
+
+
+
+	<!-- CONTENT -->
+	<section id="content">
+		<!-- NAVBAR -->
+		<nav>
+			
+			<form action="#">
+				<div class="form-input">
+					<input type="search" placeholder="Search...">
+					<button type="submit" class="search-btn"><i class='bx bx-search' ></i></button>
+				</div>
+			</form>
+			<input type="checkbox" id="switch-mode" hidden>
+			<label for="switch-mode" class="switch-mode"></label>
+			<a href="#" class="notification">
+				<i class='bx bxs-bell' ></i>
+				<span class="num">8</span>
+			</a>
+			
+		</nav>
+		<!-- NAVBAR -->
+
+		<!-- MAIN -->
+		<main >
+			<div class="head-title">
+				<div class="left">
+					<h1 id="header-title"></h1>
+					
+				</div>
+				
+			</div>
+
+			<div id="main">
+				<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+				<script type="text/javascript">
+				  google.charts.load("current", {packages:["corechart"]});
+				  google.charts.setOnLoadCallback(drawChart);
+				  function drawChart() {
+					var data = google.visualization.arrayToDataTable([
+					  ['Task', 'Missing vs found people'],
+					  ['Missing people',     11],
+					  ['Found people',      2],
+					  ['Reunited with family',  2]
+					]);
+			
+					var options = {
+					  title: 'Missing vs Found People Data',
+					  is3D: true,
+					};
+			
+					var chart = new google.visualization.PieChart(document.getElementById('piechart_3d'));
+					chart.draw(data, options);
+				  }
+				</script>
+				<h2>Missing vs Found People Data Visualization</h2>
+				<div id="piechart_3d" style="width: 900px; height: 500px;"></div>
+			</div>
+			
+		</main>
+		<!-- MAIN -->
+	</section>
+	<!-- CONTENT -->
+	
+
+	<script src="script.js"></script>
+	<script>
+        // JavaScript code to handle navigation clicks and update main section content
+        document.addEventListener("DOMContentLoaded", function () {
+            const navLinks = document.querySelectorAll('.nav-link');
+			//const mainHeader = document.querySelector('.header-title');
+
+            navLinks.forEach(link => {
+                link.addEventListener('click', function (event) {
+                    event.preventDefault();
+                    const target = this.getAttribute('href');
+					//const linkText = this.querySelector('.text').textContent;
+					//mainHeader.textContent = linkText;
+                    
+					fetch(target)
+                    .then(response => response.text())
+                    .then(html => {
+                        // Insert the fetched HTML content into the main section
+                        document.getElementById('main').innerHTML = html;
+                    })
+                    .catch(error => console.error('Error fetching page:', error));
+                });
+            });
+        });
+    </script>
+</body>
+</html>
