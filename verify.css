@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e1e2e2;
+}
+.container {
+    margin-bottom: 50px;
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+.container {
+    text-align: center;
+}
+
+.container img {
+    max-width: 200px;
+    margin-bottom: 20px;
+}
+.container b {
+    color: orange;
+}
+.details{
+    display: flex;
+    justify-content: space-around;
+    text-align: start;
+}
+.details-text{
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+.text .btn{
+    background-color: orange;
+    margin-top: 25px;
+    font-weight: bolder;
+}
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 999;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* semi-transparent black background */
+    overflow: auto;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    border-radius: 5px;
+    max-width: 400px;
+    text-align: center;
+    
+  }
+
+  /* Close button style */
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: -10px;
+  }
+
+  /* Close button hover effect */
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }

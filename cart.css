@@ -8,18 +8,18 @@
 }
 
 .missing{
-    border: .5px solid grey;
+    /* border: .5px solid grey; */
     padding: 20px;
     border-radius: 6px;
     margin: 20px;
+    background-color: #eeeeee;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 .missing-name{
     
     margin-top: 20px;
 }
-.missing-name h4{
-    color: orange;
-}
+
 .missing-name .btn{
     background-color: orange;
     border: none;

@@ -313,6 +313,7 @@ body {
 	font-family: var(--poppins);
 	max-height: calc(100vh - 56px);
 	overflow-y: auto;
+	background-color: white;
 }
 #content main .head-title {
 	display: flex;
