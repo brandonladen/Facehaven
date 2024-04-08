@@ -1,0 +1,32 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SMPF | Cart</title>
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+</head>
+<body>
+    <div class="container mt-4">
+        <h2>Missing People's Cart</h2>
+        <div class="missing-person">
+            {% for c in cases %}
+            <div class="missing">
+                <div class="missing-img">
+                    <img src="{{ c.image.url }}" alt="missing person image">
+                </div>
+                <div class="missing-name">
+                    <h4><b>{{ c.name}}</b></h4>
+                    <p><b>{{ c.age }} Yeays Old</b></p>
+                    <a href="{% url 'verify_case' c.id %}"><button class="btn btn-primary"><b>Verify</b></button></a>
+                </div>
+            </div>
+           {% endfor %}
+        </div>
+    </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</body>
+</html>

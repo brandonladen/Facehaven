@@ -30,5 +30,13 @@
         {% else %}
             <p>No similar faces found.</p>
         {% endif %}
+        <button type="button" id="print" onclick="generatePDF()">Generate PDF</button>
+        <script>            
+            const printPage = document.getElementById('print')            
+            printPage.addEventListener('click', function(){
+                print()
+            })
+            
+            </script>
     </div>
 {% endblock %}

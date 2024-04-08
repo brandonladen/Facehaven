@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    'account',
     'picApp',
     'rest_framework'
 ]
@@ -81,7 +82,7 @@ DATABASES = {
         "ENGINE": "django.db.backends.mysql",
         "NAME": "image_search",
         "USER": "root",
-        "PASSWORD": "********",
+        "PASSWORD": "wambogas11999",
         "HOST": "localhost",
         "PORT": "3306"
     }
@@ -135,7 +136,7 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 # Media settings for handling image uploads
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
-MEDIA_URL = 'picSearch/media/'
+MEDIA_URL = '/media/'
 
 LOGGING = {
     'version': 1,

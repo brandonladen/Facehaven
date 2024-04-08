@@ -2,7 +2,7 @@
 
 {% block content %}
 <div class="submit-container">
-    <h2>Submit Missing Child Information</h2>
+    <h2>Submit Missing Person Information</h2>
     <form method="post" enctype="multipart/form-data" class="submit-form">
         {% csrf_token %}
         {% for field in form %}
