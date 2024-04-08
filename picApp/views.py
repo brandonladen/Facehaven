@@ -11,7 +11,8 @@ from django.core.files.base import ContentFile
 from django.shortcuts import render, redirect
 from django.core.files.images import ImageFile
 import requests
-from itertools import chain
+from django.contrib.auth.decorators import login_required
+
 
 # from picSearch import settings
 
@@ -21,7 +22,7 @@ import os
 from django.core.files.storage import default_storage
 
 #from django.core.files.storage import default_storage
-
+@login_required
 def submit_child(request): #missing person
     if request.method == 'POST':
         form = MissingChildForm(request.POST, request.FILES)
@@ -51,7 +52,7 @@ def submit_child(request): #missing person
         form = MissingChildForm()
 
     return render(request, 'submit_child.html', {'form': form})
-
+@login_required
 def found_person(request):# found person
     if request.method == 'POST':
         form = FoundPersonForm(request.POST, request.FILES)
@@ -82,7 +83,7 @@ def found_person(request):# found person
         form = FoundPersonForm()
 
     return render(request, 'found.html', {'form': form})
-
+@login_required
 def search_child(request):
     if request.method == 'POST':
         # image = request.FILES['image']
@@ -140,7 +141,7 @@ def search_child(request):
 def home(request):
     return render(request, 'picApp/home.html')
 
-
+@login_required
 def admin_dashboard(request):
     MissingPeople = MissingChild.objects.filter(isverified=False).count()
     FoundPeople = FoundPerson.objects.filter(isverified=False).count()
@@ -157,14 +158,18 @@ def admin_dashboard(request):
         'ReunitedPersons_percentage':ReunitedPersons_percentage
     }
     return render(request, 'picApp/dashboard.html', context)
+
+@login_required
 def case_cart(request):
     cases = MissingChild.objects.filter(isverified=False)
     return render(request,'picApp/cart.html', {"cases":cases})
 
+@login_required
 def found_person_cart(request):
     case = FoundPerson.objects.filter(isverified=False)
     return render(request,'picApp/found-cart.html', {"case":case})
 
+@login_required
 def verified_profile(request):
     missing_children = MissingChild.objects.filter(isverified=True)
     found_persons = FoundPerson.objects.filter(isverified=True)
@@ -173,6 +178,7 @@ def verified_profile(request):
     
     return render(request, 'picApp/verified-cases.html', {"cases": verified_cases})
 
+@login_required
 def verify_case(request, case_id):
     case = MissingChild.objects.get(pk=case_id)
     case.isverified = True
@@ -180,6 +186,7 @@ def verify_case(request, case_id):
     
     return render(request, 'picApp/verify.html', {'case': case})
 
+@login_required
 def verify_found_persons(request, case_id):
     case = FoundPerson.objects.get(pk=case_id)
     case.isverified = True
