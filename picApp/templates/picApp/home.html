@@ -5,10 +5,120 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <link rel="stylesheet" href="{% static 'style.css' %}">
+    <link rel="stylesheet" href="{% static '' %}">
     <title>Smart Missing Persons Finder</title>
+    <style>
+        body{
+    margin: 0;
+    padding: 0;
+        }
+        .nav-bar{
+            min-height: 100vh;
+        }
+        .nav-bar ul{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            text-decoration: none;
+            list-style-type: none;
+            margin-top: 20px;
+        }
+        .nav-bar ul a{
+            text-decoration: none;
+        }
+        .nav-button{
+            display: flex;
+            justify-content: space-between;
+        }
+        .nav-button .btn{
+            margin-right: 30px;
+            color: white;
+            font-weight: bold;
+            background-color: orange;
+        }
+        #btn{
+            background-color: white;
+            border: none;
+            color: orange;
+        }
+        #btn:hover{
+            background-color: whitesmoke;
+        }
+        .logo img{
+            width: 40px;
+        }
+
+        .hero{
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            padding: 50px;
+        }
+        .hero-text{
+        width: 500px;   
+        margin-left: -50px;
+        }
+        .hero-text .btn{
+            font-weight: bold;
+        }
+        .hero .btn{
+            background-color: orange;
+            color: white;
+        }
+        .hero-image img{
+            width: 300px;
+        }
+        .desc-title{
+            text-align: center;
+            
+        }
+        .description{
+        
+            padding: 20px;
+        }
+        .section{
+            display: flex;
+
+        }
+        .section1{
+            align-items: center;
+            text-align: center;
+            margin: 15px;
+            border: 1px solid grey;
+            border-radius: 9px;
+            padding: 25px; 
+        }
+        .section1 img{
+            width: 150px;
+        }
+        .desc1{
+            
+            margin-top: 10px;
+        }
+        .desc1 h3{
+            color: orange;
+        }
+        .end-statement{
+            text-align: center;
+            padding: 70px;
+        }
+        .end-statement .btn{
+            color: white;
+            background-color: orange;
+            font-weight: bold;
+        }
+        footer{
+            text-align: center;
+            width: 100%;
+            font-weight: bold;
+            background-color: rgb(49, 49, 49);
+            color: whitesmoke;
+            margin-bottom: 0;
+            padding: 30px;
+        }
+    </style>
 </head>
-<body style="background-color: rgb(243, 243, 243);">
+<body >
     <div class="nav-bar">
         <ul>
             <li class="logo"><a href="#" style="color: black; font-weight: bold; font-size: 30px;"><img src="../../../media/image/hero.png" alt="">FaceHaven</a></li>
