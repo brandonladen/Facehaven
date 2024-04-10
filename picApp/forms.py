@@ -6,6 +6,18 @@ class MissingChildForm(forms.ModelForm):
         model = MissingChild
         fields = ['name', 'age', 'gender', 'image', 'date_missing', 'place_of_birth', 'last_seen', 'guardian_name', 'guardian_contact']
 
+        widgets = {
+            'name': forms.TextInput(attrs={'class':'form-control'}),
+            'age': forms.TextInput(attrs={'class':'form-control'}),
+            'gender': forms.Select(attrs={'class':'form-control'}),
+            'image': forms.FileInput(attrs={'class':'form-control'}),
+            'date_missing': forms.DateInput(attrs={'class':'form-control'}),
+            'place_of_birth': forms.TextInput(attrs={'class':'form-control'}),
+            'last_seen': forms.TextInput(attrs={'class':'form-control'}),
+            'guardian_name': forms.TextInput(attrs={'class':'form-control'}),
+            'guardian_contact': forms.TextInput(attrs={'class':'form-control'}),
+        }
+
     def __init__(self, *args, **kwargs):
         super(MissingChildForm, self).__init__(*args, **kwargs)
         
@@ -37,8 +49,14 @@ class FoundPersonForm(forms.ModelForm):
         fields = ['name', 'image', 'gender', 'date_found', 'time_found', 'place_found', 'samaritan_name', 'samaritan_contact']
         
         widgets = {
-            'date_found': forms.DateInput(attrs={'type': 'date'}),
-            'time_found': forms.TimeInput(attrs={'type': 'time'}),
+            'name': forms.TextInput(attrs={'class':'form-control left'}),
+            'date_found': forms.DateInput(attrs={'type': 'date', 'class':'form-control right'}),
+            'time_found': forms.TimeInput(attrs={'type': 'time','class':'form-control left'}),
+            'image': forms.FileInput(attrs={'class':'form-control right'}),
+            'gender': forms.Select(attrs={'class':'form-control left'}),
+            'place_found': forms.TextInput(attrs={'class':'form-control right'}),
+            'samaritan_name': forms.TextInput(attrs={'class':'form-control left'}),
+            'samaritan_contact': forms.TextInput(attrs={'class':'form-control right'}),
         }
 
     def __init__(self, *args, **kwargs):

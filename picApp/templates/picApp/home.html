@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="{% static 'style.css' %}">
     <title>Smart Missing Persons Finder</title>
 </head>
-<body>
+<body style="background-color: rgb(243, 243, 243);">
     <div class="nav-bar">
         <ul>
             <li class="logo"><a href="#" style="color: black; font-weight: bold; font-size: 30px;"><img src="../../../media/image/hero.png" alt="">FaceHaven</a></li>
@@ -20,8 +20,8 @@
         </ul>
         
 
-        <div class="hero container">
-            <div class="hero-text">
+        <div class="hero container" style="min-height: 70vh;">
+            <div class="hero-text" >
                 <h1 style="font-weight:1000; font-size: 50px;">Report Cases Of Missing People</h1>
                 <p>We accelerate the search for missing people</p>
                 <a href="{% url 'signup' %}"><button class="btn">Get Started For Free</button></a>

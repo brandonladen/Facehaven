@@ -1,14 +1,15 @@
 {% extends 'base.html' %}
 
 {% block content %}
+
 <div class="submit-container">
     <h2>Submit Found Person Information</h2>
-    <form method="post" enctype="multipart/form-data" class="submit-form">
+    <form method="post" enctype="multipart/form-data" class="submit-form" style="background-color: white; border-radius: 10px; padding: 20px;">
         {% csrf_token %}
         {% for field in form %}
             <div class="field-container">
-                {{ field.label_tag }}
-                {{ field }}
+                <p style="margin: 10px;">{{ field.label_tag }}</p>
+                <p style="margin: 10px;">{{ field }}</p>
                 {% if field.errors %}
                     <div class="field-errors">
                         {{ field.errors }}
@@ -16,7 +17,7 @@
                 {% endif %}
             </div>
         {% endfor %}
-        <button type="submit" class="submit-btn">Submit</button>
+        <button type="submit" class="submit-btn">Submit for Review</button>
     </form>
 </div>
 {% endblock %}

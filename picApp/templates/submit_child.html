@@ -1,9 +1,17 @@
 {% extends 'base.html' %}
 
 {% block content %}
-<div class="submit-container">
+<style>
+.name{
+    color: red;
+}
+.field-label {
+        font-weight: bold;
+    }
+</style>
+<div class="submit-container" >
     <h2>Submit Missing Person Information</h2>
-    <form method="post" enctype="multipart/form-data" class="submit-form">
+    <form method="post" enctype="multipart/form-data" class="submit-form" style=" padding: 15px; border-radius: 10px; margin-bottom: 40px; background-color: white;">
         {% csrf_token %}
         {% for field in form %}
             <div class="field-container">
@@ -16,7 +24,7 @@
                 {% endif %}
             </div>
         {% endfor %}
-        <button type="submit" class="submit-btn">Submit</button>
+        <button type="submit" class="submit-btn" >Submit for Review</button>
     </form>
 </div>
 {% endblock %}
