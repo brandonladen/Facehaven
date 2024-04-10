@@ -8,10 +8,11 @@ from picApp.forms import MissingChildForm, FoundPersonForm
 from deepface import DeepFace
 from django.core.files.storage import default_storage
 from django.core.files.base import ContentFile
-from django.shortcuts import render, redirect
+from django.shortcuts import render, redirect, get_object_or_404
 from django.core.files.images import ImageFile
 import requests
 from django.contrib.auth.decorators import login_required
+from django.contrib.auth import logout
 
 
 # from picSearch import settings
@@ -47,7 +48,9 @@ def submit_child(request): #missing person
             image_encoding = DeepFace.represent(img_path=image, model_name='Facenet', enforce_detection=False)
             child.image_encoding = np.array(image_encoding).tobytes()
             child.save()
-            return redirect('search_child')
+            # logout(request)
+            #give message then logout button
+            return redirect('feedback')
     else:
         form = MissingChildForm()
 
@@ -78,7 +81,8 @@ def found_person(request):# found person
             child.image_encoding = np.array(image_encoding).tobytes()
             child.save()
             #give message then logout button
-            return redirect('home')
+            # logout(request)
+            return redirect('feedback')
     else:
         form = FoundPersonForm()
 
@@ -149,15 +153,24 @@ def admin_dashboard(request):
     RP2 = FoundPerson.objects.filter(isverified=True).count()
     ReunitedPersons = RP1 + RP2
     TotalPersons = MissingPeople + FoundPeople + ReunitedPersons
-    MissingPeople_percentage = round((MissingPeople / TotalPersons) * 100, 2)
-    FoundPeople_percentage = round((FoundPeople / TotalPersons) * 100, 2)
-    ReunitedPersons_percentage = round((ReunitedPersons / TotalPersons) * 100, 2)
+    
+    # Check if TotalPersons is zero to avoid division by zero
+    if TotalPersons == 0:
+        MissingPeople_percentage = 0
+        FoundPeople_percentage = 0
+        ReunitedPersons_percentage = 0
+    else:
+        MissingPeople_percentage = round((MissingPeople / TotalPersons) * 100, 2)
+        FoundPeople_percentage = round((FoundPeople / TotalPersons) * 100, 2)
+        ReunitedPersons_percentage = round((ReunitedPersons / TotalPersons) * 100, 2)
+    
     context = {
         'MissingPeople_percentage': MissingPeople_percentage,
-        'FoundPeople_percentage':FoundPeople_percentage,
-        'ReunitedPersons_percentage':ReunitedPersons_percentage
+        'FoundPeople_percentage': FoundPeople_percentage,
+        'ReunitedPersons_percentage': ReunitedPersons_percentage
     }
     return render(request, 'picApp/dashboard.html', context)
+
 
 @login_required
 def case_cart(request):
@@ -193,3 +206,20 @@ def verify_found_persons(request, case_id):
     case.save()
     
     return render(request, 'picApp/verify-found.html', {'case': case})
+
+def delete_complaint(request, copm_id):
+    complaint = None
+    if MissingChild.objects.filter(pk=copm_id).exists():
+        complaint = get_object_or_404(MissingChild, pk=copm_id)
+    elif FoundPerson.objects.filter(pk=copm_id).exists():
+        complaint = get_object_or_404(FoundPerson, pk=copm_id)
+    
+    if complaint:
+        complaint.delete()
+        # Successfully deleted
+    
+    return redirect('admin_dashboard')
+
+@login_required
+def feedback(request):
+    return render(request, 'picApp/feedback.html')

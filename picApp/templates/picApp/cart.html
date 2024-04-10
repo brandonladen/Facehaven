@@ -11,6 +11,7 @@
     <div class="container mt-4">
         <h2>Missing People's Cart</h2>
         <div class="missing-person">
+            {% if cases %}
             {% for c in cases %}
             <div class="missing">
                 <div class="missing-img">
@@ -23,6 +24,9 @@
                 </div>
             </div>
            {% endfor %}
+           {% else %}
+             <p>No available data</p>
+           {% endif %}
         </div>
     </div>
 

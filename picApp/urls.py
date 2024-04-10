@@ -1,5 +1,5 @@
 from django.urls import path
-from .views import  verify_found_persons, search_child, submit_child, admin_dashboard, home, case_cart, verify_case, found_person, found_person_cart, verified_profile
+from .views import  feedback, delete_complaint, verify_found_persons, search_child, submit_child, admin_dashboard, home, case_cart, verify_case, found_person, found_person_cart, verified_profile
 
 urlpatterns = [
     path('submit/', submit_child, name="submit_child"),
@@ -12,6 +12,6 @@ urlpatterns = [
     path('found_person_cart/', found_person_cart, name="found_person_cart"),
     path('verified_profile/', verified_profile, name="verified_profile"),
     path('verify_found_persons/<int:case_id>/', verify_found_persons, name="verify_found_persons"),
-    
-
+    path('delete/<int:copm_id>', delete_complaint, name="delete"),
+    path('feedback', feedback, name="feedback"),
 ]

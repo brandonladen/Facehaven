@@ -20,7 +20,7 @@
             <p>You can never retrieve these details if you delete!!!</p>
             <div>
                 <button class="btn btn-primary" onclick="closeModal()">Cancel</button>
-                <button class="btn btn-danger">Delete</button>
+                <a href="{% url 'delete'  case.id %}"><button class="btn btn-danger">Delete</button></a>
             </div>
             
         </div>

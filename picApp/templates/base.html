@@ -11,10 +11,14 @@
     <header>
         <nav class="navbar">
             <div class="container">
-                <a class="navbar-brand" href="{% url 'home' %}">FaceHaven</a>
+                {% if request.user == superuser%}
+                <a class="navbar-brand" href="{% url 'admin_dashboard' %}">Back To Dashboard</a>
+                {% else %}
+                <a class="navbar-brand" href="#">FaceHaven</a>
+                {% endif %}
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                    <a class="nav-link" href="{% url 'submit_child' %}">Record Missing Child</a>
+                    {% comment %} <a class="nav-link" href="{% url 'submit_child' %}">Record Missing Child</a> {% endcomment %}
                     </li>
                 </ul>
             </div>

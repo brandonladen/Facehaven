@@ -85,14 +85,6 @@
 
 		<!-- MAIN -->
 		<main >
-			<!-- <div class="head-title">
-				<div class="left">
-					<h1 id="header-title">Dashboard</h1>
-					
-				</div>
-				
-			</div> -->
-
 			<div id="main">
 				<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 				<script type="text/javascript">
@@ -107,7 +99,11 @@
 					]);
 			
 					var options = {
+					{% if MissingPeople_percentage or FoundPeople_percentage or ReunitedPersons_percentage %}
 					  title: 'Missing vs Found People Data',
+					{% else %}
+					  title: 'No availabe data',
+					{% endif %}
 					  is3D: true,
 					};
 			
