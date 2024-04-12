@@ -6546,3 +6546,130 @@ Creating converter from 3 to 5
 Not Found: /admin_dashboard/script.js
 Starting new HTTP connection (1): 127.0.0.1:8000
 http://127.0.0.1:8000 "GET /media/missing_children/img15.jpg HTTP/1.1" 200 11506
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/img15.jpg HTTP/1.1" 200 11506
+Creating converter from 3 to 5
+Internal Server Error: /search/
+Traceback (most recent call last):
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\views.py", line 125, in search_child
+    similarity = DeepFace.verify(temp_image.name, child_image_path, model_name='Facenet', distance_metric='euclidean_l2', enforce_detection=False)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\deepface\DeepFace.py", line 114, in verify
+    return verification.verify(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\deepface\modules\verification.py", line 94, in verify
+    img2_objs = functions.extract_faces(
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\deepface\commons\functions.py", line 172, in extract_faces
+    img, img_name = load_image(img)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\deepface\commons\functions.py", line 120, in load_image
+    raise ValueError(f"Confirm that {img} exists")
+ValueError: Confirm that C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\media\missing_children\IMG-20240205-WA0001.jpg exists
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+tag: ImageDescription (270) - type: string (2) Tag Location: 22 - Data Location: 302 - value: b'Exif_JPEG_420\x00'
+tag: Make (271) - type: string (2) Tag Location: 34 - Data Location: 318 - value: b'itel\x00'
+tag: Model (272) - type: string (2) Tag Location: 46 - Data Location: 326 - value: b'itel W5001P\x00'
+tag: Orientation (274) - type: short (3) - value: b'\x00\x00'
+tag: XResolution (282) - type: rational (5) Tag Location: 70 - Data Location: 338 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+tag: YResolution (283) - type: rational (5) Tag Location: 82 - Data Location: 346 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+tag: Software (305) - type: string (2) Tag Location: 106 - Data Location: 354 - value: b'Software Version v1.1.0\x00'
+tag: DateTime (306) - type: string (2) Tag Location: 118 - Data Location: 378 - value: b'2021:08:03 14:38:51\x00'
+tag: Artist (315) - type: string (2) Tag Location: 130 - Data Location: 398 - value: b'Artist-freed\x00'
+tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+tag: ImageWidth (256) - type: long (4) - value: b'\x00\x00\x07\x98'
+tag: ImageLength (257) - type: long (4) - value: b'\x00\x00\n '
+tag: Copyright (33432) - type: string (2) Tag Location: 178 - Data Location: 414 - value: b'Copyright,Spreadtrum,2011\x00'
+tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x01\xba'
+tag: GPSInfoIFD (34853) - type: long (4) - value: b'\x00\x00\x04\xea'
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/found_person/IMG_20210803_143851.jpg HTTP/1.1" 200 187947
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/img12.jpg HTTP/1.1" 200 9154
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/found_person/IMG_20210803_143851.jpg HTTP/1.1" 200 187947
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
