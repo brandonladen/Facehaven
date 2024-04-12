@@ -6673,3 +6673,208 @@ Creating converter from 7 to 5
 Creating converter from 5 to 7
 From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
 
+Not Found: /media/found_person/IMG_20210803_143851.jpg
+Not Found: /media/found_person/IMG_20210803_143851.jpg
+Not Found: /media/found_person/IMG_20210803_143851.jpg
+Not Found: /media/found_person/IMG_20210803_143851.jpg
+Not Found: /media/found_person/IMG_20210803_143851.jpg
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /media/img12.jpg
+Not Found: /admin_dashboard/script.js
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/img12.jpg HTTP/1.1" 200 9154
+Creating converter from 3 to 5
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/found_person/img1_Dhw1G8u.jpg HTTP/1.1" 200 29345
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/found_person/img1_Dhw1G8u.jpg HTTP/1.1" 200 29345
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/img12.jpg HTTP/1.1" 200 9154
+Creating converter from 3 to 5
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/found_person/img1_Dhw1G8u.jpg HTTP/1.1" 200 29345
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/found_person/img1_Dhw1G8u.jpg HTTP/1.1" 200 29345
+Creating converter from 3 to 5
+Not Found: /admin_dashboard/script.js
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/found_person/IMG_20240105_185345_984.jpg HTTP/1.1" 200 60776
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/IMG_20240105_185345_984.jpg HTTP/1.1" 200 60776
+Not Found: /admin_dashboard/script.js
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picSearch\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picSearch\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/img7.jpg HTTP/1.1" 200 7193
+Creating converter from 3 to 5
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/found_person/img13.jpg HTTP/1.1" 200 5940
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+

@@ -56,7 +56,7 @@ def submit_child(request): #missing person
 
     return render(request, 'submit_child.html', {'form': form})
 @login_required
-def found_person(request):# found person
+def found_person(request): #found person
     if request.method == 'POST':
         form = FoundPersonForm(request.POST, request.FILES)
         if form.is_valid():
@@ -80,13 +80,15 @@ def found_person(request):# found person
             image_encoding = DeepFace.represent(img_path=image, model_name='Facenet', enforce_detection=False)
             child.image_encoding = np.array(image_encoding).tobytes()
             child.save()
-            #give message then logout button
             # logout(request)
+            #give message then logout button
             return redirect('feedback')
     else:
         form = FoundPersonForm()
 
-    return render(request, 'found.html', {'form': form})
+    return render(request, 'submit_child.html', {'form': form})
+
+
 @login_required
 def search_child(request):
     if request.method == 'POST':
@@ -195,7 +197,7 @@ def verified_profile(request):
 def verify_case(request, case_id):
     case = MissingChild.objects.get(pk=case_id)
     case.isverified = True
-    case.save()
+    #case.save()
     
     return render(request, 'picApp/verify.html', {'case': case})
 
@@ -203,7 +205,7 @@ def verify_case(request, case_id):
 def verify_found_persons(request, case_id):
     case = FoundPerson.objects.get(pk=case_id)
     case.isverified = True
-    case.save()
+    #case.save()
     
     return render(request, 'picApp/verify-found.html', {'case': case})
 
