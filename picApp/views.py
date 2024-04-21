@@ -129,15 +129,12 @@ def search_child(request):
                 distance = similarity['distance']
                 distance = float(distance)
                 similarity_percentage = round(1 / (1 + distance) * 100, 2)
-                if similarity_percentage > 60:
+                if similarity_percentage > 10:
                     similar_children.append((child, similarity_percentage))
 
         # Clean up the temporary file
         temp_image.close()
         os.unlink(temp_image.name)
-        
-        # searched_person = MissingChild.objects.filter(image=image_data)
-        # print(f'>>>>>>>>>>> image_data {searched_person}')
 
         # Sort the similar children by similarity percentage in reverse order
         similar_children.sort(key=lambda x: x[1], reverse=True)

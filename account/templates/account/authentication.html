@@ -386,7 +386,7 @@ form.sign-in-form {
 .alert {
   font-family: Arial, sans-serif; /* or any other preferred font */
   color: red;
-  
+  font-size: 26px;
 }
     </style>
   
@@ -398,16 +398,16 @@ form.sign-in-form {
 
         <form action="{% url 'login' %}" method="POST" class="sign-in-form">
           {% if messages %}
-    <div class="card">
-        <div class="card-body">
-            {% for message in messages %}
-                <div class="alert alert-danger" role="alert">
-                    <strong>Error:</strong> {{ message }}
+            <div class="card">
+                <div class="card-body">
+                    {% for message in messages %}
+                        <div class="alert alert-danger" role="alert">
+                            <strong>Error:</strong> {{ message }}
+                        </div>
+                    {% endfor %}
                 </div>
-            {% endfor %}
-        </div>
-    </div>
-    {% endif %}
+            </div>
+          {% endif %}
           {% csrf_token %}
           <h2 class="title">Sign In</h2>
           <div class="input-field">
@@ -423,6 +423,17 @@ form.sign-in-form {
 
 
        <form action="{% url 'signup' %}" method="POST" class="sign-up-form">
+        {% if messages %}
+        <div class="card">
+            <div class="card-body">
+                {% for message in messages %}
+                    <div class="alert alert-danger" role="alert">
+                        <strong>Error:</strong> {{ message }}
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+      {% endif %}
         {% csrf_token %}
         <h2 class="title">Sign Up</h2>
         <div class="input-field">
