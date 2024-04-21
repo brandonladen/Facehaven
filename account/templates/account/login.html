@@ -25,6 +25,17 @@
 <body>
     <div class="container text-center">
         <h1>Login</h1>
+        {% if messages %}
+            <div class="card">
+                <div class="card-body">
+                    {% for message in messages %}
+                        <div class="alert alert-{{ message.tags }}" role="alert">
+                            {{ message }}
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        {% endif %}
         <form method="POST">
             {% csrf_token %}
             {{ form.as_p }}

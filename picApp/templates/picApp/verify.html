@@ -29,10 +29,12 @@
     <div id="loadingModal" class="modal" style="display: none;">
       <div class="modal-content">
           <h2>Loading...</h2>
+          <div class="loading-spinner"></div>
           <p>Searching for similar images. Please wait...</p>
           <!-- You can also display the amount of time to be searched -->
       </div>
   </div>
+  
 
 
     <div class="container">
@@ -66,7 +68,7 @@
           </form>
            {% comment %} <a href="{% url 'search_child' %}"><button class="btn">Search</button></a> {% endcomment %}
            <button class="btn" onclick="openModal()">Delete</button>
-           <a href="{% url 'admin_dashboard' %}"><button class="btn">Cancel</button></a>
+           <a href="{% url 'admin_dashboard' %}"><button class="btn">Done</button></a>
         </div>
         
     </div>

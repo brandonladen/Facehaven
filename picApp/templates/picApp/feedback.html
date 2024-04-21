@@ -32,7 +32,7 @@
             <div class="card-body">
                 <h5 class="card-title">Thank You {{ request.user.first_name }} {{ request.user.last_name }}!</h5>
                 <p class="card-text">Thank you for filing your case. We hope that we will be able to reunite you and your missing beloved. We will get back to you via the email ({{ request.user.email }}) that you provided as soon as we find a positive match.</p>
-                <a href="{% url 'logout' %}" class="btn btn-primary">Logout</a>
+                <a href="{% url 'logout' %}" class="btn btn-primary">OK</a>
             </div>
         </div>
     </div>

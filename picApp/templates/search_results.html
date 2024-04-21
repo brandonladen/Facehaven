@@ -3,6 +3,7 @@
 {% block content %}
     <div class="results-container">
         <h2>Search Results</h2>
+        
         {% if similar_children %}
         <h3>Found Match</h3>
             <div class="grid">
@@ -30,13 +31,12 @@
         {% else %}
             <p>No similar faces found.</p>
         {% endif %}
-        <button type="button" id="print" onclick="generatePDF()">Generate PDF</button>
+        <button type="button" id="print" onclick="generatePDF()" style="background-color: #007bff; color: white; font-size: 16px; border-radius: 10px; border: 1px solid #007bff; padding: 8px 16px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">Generate PDF</button>
         <script>            
             const printPage = document.getElementById('print')            
             printPage.addEventListener('click', function(){
                 print()
             })
-            
-            </script>
+        </script>
     </div>
 {% endblock %}

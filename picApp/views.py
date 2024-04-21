@@ -86,7 +86,7 @@ def found_person(request): #found person
     else:
         form = FoundPersonForm()
 
-    return render(request, 'submit_child.html', {'form': form})
+    return render(request, 'found.html', {'form': form})
 
 
 @login_required
@@ -135,11 +135,16 @@ def search_child(request):
         # Clean up the temporary file
         temp_image.close()
         os.unlink(temp_image.name)
+        
+        # searched_person = MissingChild.objects.filter(image=image_data)
+        # print(f'>>>>>>>>>>> image_data {searched_person}')
 
         # Sort the similar children by similarity percentage in reverse order
         similar_children.sort(key=lambda x: x[1], reverse=True)
 
-        context = {'similar_children': similar_children}
+        context = {'similar_children': similar_children, 
+                   'searched_person': "searched_person"
+                   }
         return render(request, 'search_results.html', context)
 
     return render(request, 'search_child.html')
@@ -152,7 +157,7 @@ def admin_dashboard(request):
     MissingPeople = MissingChild.objects.filter(isverified=False).count()
     FoundPeople = FoundPerson.objects.filter(isverified=False).count()
     RP1 = MissingChild.objects.filter(isverified=True).count()
-    RP2 = FoundPerson.objects.filter(isverified=True).count()
+    RP2 = FoundPerson.objects.filter(isverified=True).count() 
     ReunitedPersons = RP1 + RP2
     TotalPersons = MissingPeople + FoundPeople + ReunitedPersons
     
@@ -169,7 +174,10 @@ def admin_dashboard(request):
     context = {
         'MissingPeople_percentage': MissingPeople_percentage,
         'FoundPeople_percentage': FoundPeople_percentage,
-        'ReunitedPersons_percentage': ReunitedPersons_percentage
+        'ReunitedPersons_percentage': ReunitedPersons_percentage,
+        'MissingPeople': MissingPeople,
+        'FoundPeople': FoundPeople,
+        'ReunitedPersons' : ReunitedPersons,
     }
     return render(request, 'picApp/dashboard.html', context)
 
@@ -197,15 +205,16 @@ def verified_profile(request):
 def verify_case(request, case_id):
     case = MissingChild.objects.get(pk=case_id)
     case.isverified = True
-    #case.save()
+    case.save()
     
     return render(request, 'picApp/verify.html', {'case': case})
+
 
 @login_required
 def verify_found_persons(request, case_id):
     case = FoundPerson.objects.get(pk=case_id)
     case.isverified = True
-    #case.save()
+    case.save()
     
     return render(request, 'picApp/verify-found.html', {'case': case})
 
@@ -221,6 +230,22 @@ def delete_complaint(request, copm_id):
         # Successfully deleted
     
     return redirect('admin_dashboard')
+
+def remove_verified(request, person_id):
+    person = None
+    if MissingChild.objects.filter(pk=person_id).exists():
+        person = get_object_or_404(MissingChild, pk=person_id)
+    if FoundPerson.objects.filter(pk=person_id).exists():
+        person = get_object_or_404(FoundPerson, pk=person_id)
+    
+    if person:
+        person.isverified = False
+        person.save()
+    
+    return redirect('admin_dashboard')
+
+def who(request):
+    return render(request, 'account/who.html')
 
 @login_required
 def feedback(request):
