@@ -18,9 +18,9 @@
                     <img src="{{ c.image.url }}" alt="missing person image">
                 </div>
                 <div class="missing-name">
-                    <h4><b>{{ c.name}}</b></h4>
-                    <p><b>{{ c.age }} Yeays Old</b></p>
-                    <a href="{% url 'verify_case' c.id %}"><button class="btn btn-primary"><b>Verify</b></button></a>
+                    <h4><b style="color:black">{{ c.name}}</b></h4>
+                    <p><b style="color:black">{{ c.age }} Yeays Old</b></p>
+                    <a href="{% url 'verify_case' c.id %}"><button class="btn btn-primary" style="background-color: orange;"><b style="color:white">Verify</b></button></a>
                 </div>
             </div>
            {% endfor %}

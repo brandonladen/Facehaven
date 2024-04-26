@@ -25,7 +25,7 @@
                     {% endif %}
                     <p>Place Found: <b> {{ c.place_found }}</b></p>
                     <p>Date Found: <b> {{ c.date_found }}</b></p>
-                    <a href="{% url 'verify_found_persons' c.id %}"><button class="btn"><b>Verify</b></button></a>
+                    <a href="{% url 'verify_found_persons' c.id %}"><button class="btn" style="background-color:orange"><b style="color:white; ">Verify</b></button></a>
                     {% comment %} <a href="{% url 'verify_found' c.id %}"><button class="btn btn-primary"><b>Verify</b></button></a> {% endcomment %}
                 </div>
             </div> 

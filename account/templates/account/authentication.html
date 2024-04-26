@@ -385,7 +385,12 @@ form.sign-in-form {
 
 .alert {
   font-family: Arial, sans-serif; /* or any other preferred font */
-  color: red;
+  color: green;
+  font-size: 26px;
+}
+.success {
+  font-family: Arial, sans-serif; /* or any other preferred font */
+  color: green;
   font-size: 26px;
 }
     </style>
@@ -402,7 +407,7 @@ form.sign-in-form {
                 <div class="card-body">
                     {% for message in messages %}
                         <div class="alert alert-danger" role="alert">
-                            <strong>Error:</strong> {{ message }}
+                            <strong></strong> {{ message }}
                         </div>
                     {% endfor %}
                 </div>
@@ -427,8 +432,8 @@ form.sign-in-form {
         <div class="card">
             <div class="card-body">
                 {% for message in messages %}
-                    <div class="alert alert-danger" role="alert">
-                        <strong>Error:</strong> {{ message }}
+                    <div class="success alert-danger" role="alert">
+                        <strong></strong> {{ message }}
                     </div>
                 {% endfor %}
             </div>

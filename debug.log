@@ -8063,3 +8063,1630 @@ Not Found: /login/style.css
 Not Found: /authentication/style.css
 Not Found: /authentication/style.css
 Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /login/style.css
+Not Found: /login/img/log.svg
+Not Found: /authentication/style.css
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/IMG_20240105_185345_984.jpg HTTP/1.1" 200 60776
+Creating converter from 3 to 5
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /favicon.ico
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/IMG_20240105_185345_984.jpg HTTP/1.1" 200 60776
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/found_person/img20_tFyUE94.jpg HTTP/1.1" 200 7785
+Not Found: /admin_dashboard/script.js
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+Not Found: /login/style.css
+Not Found: /login/img/log.svg
+Importing BlpImagePlugin
+Importing BlpImagePlugin
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing BmpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing CurImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DcxImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing DdsImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing EpsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FitsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FliImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Importing FpxImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GbrImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcnsImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing IcoImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing ImtImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing IptcImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing JpegImagePlugin
+Importing McIdasImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Importing MicImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpegImagePlugin
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MpoImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing MspImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PalmImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcdImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PixarImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PngImagePlugin
+Importing PsdImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing QoiImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SgiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SpiderImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing SunImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TgaImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing TiffImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing WmfImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XbmImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XpmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+Importing XVThumbImagePlugin
+Importing XVThumbImagePlugin
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Not Found: /favicon.ico
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+STREAM b'IHDR' 16 13
+STREAM b'sRGB' 41 1
+STREAM b'IDAT' 54 8192
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+Creating converter from 3 to 5
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/PASSPORT_PHOTO-removebg-preview.png HTTP/1.1" 200 160901
+Not Found: /admin_dashboard/script.js
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+tag: Software (305) - type: string (2) Tag Location: 22 - Data Location: 86 - value: b'Picasa\x00'
+tag: Artist (315) - type: string (2) Tag Location: 34 - Data Location: 93 - value: b'PROFESSIONAL STUDIO\x00'
+tag: YCbCrSubSampling (530) - type: short (3) - value: b'\x00\x02\x00\x02'
+tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x08\xa6'
+tag: unknown (40093) - type: byte (1) Tag Location: 70 - Data Location: 113 - value: <table: 40 bytes>
+tag: unknown (59932) - type: undefined (7) Tag Location: 82 - Data Location: 153 - value: <table: 2060 bytes>
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 192.168.175.179:8000
+http://192.168.175.179:8000 "GET /media/missing_children/PASSPORT%20PHOTO.jpg HTTP/1.1" 200 29981
+Not Found: /admin_dashboard/script.js
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /login/img/log.svg
+Not Found: /login/style.css
+Not Found: /login/style.css
+Not Found: /login/img/log.svg
+Not Found: /login/style.css
+Not Found: /login/img/log.svg
+Not Found: /login/style.css
+Not Found: /login/img/log.svg
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /favicon.ico
+Not Found: /admin_dashboard/script.js
+Not Found: /dashboard
+Not Found: /admin_dashboard/script.js
+Not Found: /favicon.ico
+Not Found: /login/style.css
+Not Found: /login/img/log.svg
+Not Found: /favicon.ico
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /admin_dashboard/script.js
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+Not Found: /admin_dashboard/script.js
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /login/style.css
+Not Found: /login/img/log.svg
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/img2.jpg HTTP/1.1" 200 70766
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /admin_dashboard/script.js
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /admin_dashboard/script.js
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /login/style.css
+Not Found: /login/img/log.svg
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Not Found: /favicon.ico
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/IMG_20240105_185345_984.jpg HTTP/1.1" 200 60776
+Creating converter from 3 to 5
+Not Found: /admin_dashboard/script.js
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /favicon.ico
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /login/style.css
+Not Found: /login/img/log.svg
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/IMG_20240207_092431_104_transcpr.jpg HTTP/1.1" 200 430193
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/IMG_20240207_092431_104_transcpr.jpg HTTP/1.1" 200 430193
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/Eli.jpg HTTP/1.1" 200 93250
+Not Found: /admin_dashboard/script.js
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/IMG_20240207_092431_104_transcpr.jpg HTTP/1.1" 200 430193
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/IMG_20240207_092431_104_transcpr.jpg HTTP/1.1" 200 430193
+Creating converter from 3 to 5
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/Eli.jpg HTTP/1.1" 200 93250
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/img20.jpg HTTP/1.1" 200 7785
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/found_person/img20_tFyUE94.jpg HTTP/1.1" 200 7785
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/IMG_20240105_185345_984.jpg HTTP/1.1" 200 60776
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/IMG_20240205_085727.jpg HTTP/1.1" 200 343621
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/IMG_20240205_085727.jpg HTTP/1.1" 200 343621
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/img3.jpg HTTP/1.1" 200 4796
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/Eli.jpg HTTP/1.1" 200 93250
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/Eli.jpg HTTP/1.1" 200 93250
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/Eli.jpg HTTP/1.1" 200 93250
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/IMG_20240105_185345_984.jpg HTTP/1.1" 200 60776
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/found_person/img20_tFyUE94.jpg HTTP/1.1" 200 7785
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/PASSPORT_PHOTO-removebg-preview.png HTTP/1.1" 200 160901
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/IMG_20210919_133635.jpg HTTP/1.1" 200 202022
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/IMG_20210919_133635.jpg HTTP/1.1" 200 202022
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/PASSPORT_PHOTO-removebg-preview.png HTTP/1.1" 200 160901
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/IMG_20240105_185345_984.jpg HTTP/1.1" 200 60776
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/img14.jpg HTTP/1.1" 200 7393
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/found_person/img20_tFyUE94.jpg HTTP/1.1" 200 7785
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/img16.jpg HTTP/1.1" 200 6787
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+Internal Server Error: /found_person/
+Traceback (most recent call last):
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\views.py", line 62, in found_person
+    if form.is_valid():
+       ^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\forms\forms.py", line 197, in is_valid
+    return self.is_bound and not self.errors
+                                 ^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\forms\forms.py", line 192, in errors
+    self.full_clean()
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\forms\forms.py", line 327, in full_clean
+    self._clean_fields()
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\forms\forms.py", line 342, in _clean_fields
+    value = getattr(self, "clean_%s" % name)()
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\forms.py", line 85, in clean_samaritan_contact
+    # Regular expression to match Kenyan phone numbers with or without the country code
+                  ^^
+NameError: name 're' is not defined
+Internal Server Error: /found_person/
+Traceback (most recent call last):
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\views.py", line 62, in found_person
+    if form.is_valid():
+       ^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\forms\forms.py", line 197, in is_valid
+    return self.is_bound and not self.errors
+                                 ^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\forms\forms.py", line 192, in errors
+    self.full_clean()
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\forms\forms.py", line 327, in full_clean
+    self._clean_fields()
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\forms\forms.py", line 342, in _clean_fields
+    value = getattr(self, "clean_%s" % name)()
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\forms.py", line 85, in clean_samaritan_contact
+    # Regular expression to match Kenyan phone numbers with or without the country code
+                  ^^
+NameError: name 're' is not defined
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\models.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\models.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\models.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+Creating converter from 3 to 5
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+Creating converter from 3 to 5
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+STREAM b'IHDR' 16 13
+STREAM b'sRGB' 41 1
+STREAM b'gAMA' 54 4
+STREAM b'pHYs' 70 9
+STREAM b'IDAT' 91 65445
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+Creating converter from 3 to 5
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+STREAM b'IHDR' 16 13
+STREAM b'sRGB' 41 1
+STREAM b'gAMA' 54 4
+STREAM b'pHYs' 70 9
+STREAM b'IDAT' 91 65445
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+STREAM b'IHDR' 16 13
+STREAM b'sRGB' 41 1
+STREAM b'gAMA' 54 4
+STREAM b'pHYs' 70 9
+STREAM b'IDAT' 91 65445
+Creating converter from 3 to 5
+C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+STREAM b'IHDR' 16 13
+STREAM b'sRGB' 41 1
+STREAM b'gAMA' 54 4
+STREAM b'pHYs' 70 9
+STREAM b'IDAT' 91 65445
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+Creating converter from 3 to 5
+Internal Server Error: /submit/
+Traceback (most recent call last):
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1062, "Duplicate entry '0-O-2024-04-26' for key 'picapp_missingchild.picApp_missingchild_name_age_gender_date_missing_caaf5c38_uniq'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\views.py", line 50, in submit_child
+    child.save()
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\models\base.py", line 909, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\models\base.py", line 1067, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\models\base.py", line 1108, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\models\query.py", line 1845, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1823, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry '0-O-2024-04-26' for key 'picapp_missingchild.picApp_missingchild_name_age_gender_date_missing_caaf5c38_uniq'")
+STREAM b'IHDR' 16 13
+STREAM b'sRGB' 41 1
+STREAM b'gAMA' 54 4
+STREAM b'pHYs' 70 9
+STREAM b'IDAT' 91 65445
+Internal Server Error: /submit/
+Traceback (most recent call last):
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1062, "Duplicate entry '0-O-2024-04-26' for key 'picapp_missingchild.picApp_missingchild_name_age_gender_date_missing_caaf5c38_uniq'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\Facehaven\picApp\views.py", line 50, in submit_child
+    child.save()
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\models\base.py", line 909, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\models\base.py", line 1067, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\models\base.py", line 1108, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\models\query.py", line 1845, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1823, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry '0-O-2024-04-26' for key 'picapp_missingchild.picApp_missingchild_name_age_gender_date_missing_caaf5c38_uniq'")
+STREAM b'IHDR' 16 13
+STREAM b'sRGB' 41 1
+STREAM b'gAMA' 54 4
+STREAM b'pHYs' 70 9
+STREAM b'IDAT' 91 65445
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Not Found: /admin_dashboard/script.js
+Watching for file changes with StatReloader
+Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+From C:\Users\hp\Documents\H-IT\Facehaven\env\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Not Found: /authentication/style.css
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/img/log.svg
+Not Found: /authentication/style.css
+Not Found: /admin_dashboard/script.js
+Starting new HTTP connection (1): 127.0.0.1:8000
+http://127.0.0.1:8000 "GET /media/missing_children/Eli.jpg HTTP/1.1" 200 93250
+Creating converter from 3 to 5
+Not Found: /admin_dashboard/script.js

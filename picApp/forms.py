@@ -1,5 +1,6 @@
 from django import forms
 from .models import MissingChild, FoundPerson
+import datetime, re
 
 class MissingChildForm(forms.ModelForm):
     class Meta:
@@ -25,22 +26,33 @@ class MissingChildForm(forms.ModelForm):
         self.fields['image'].required = True
         self.fields['gender'].required = True
         self.fields['last_seen'].required = True
-        self.fields['date_missing'].required = True
+        # self.fields['date_missing'].required = True
+        self.fields['date_missing'].widget.attrs['max'] = str(datetime.date.today())
+
         
         # Set required attribute for non-mandatory fields to False
         self.fields['name'].required = False
         self.fields['age'].required = False
         self.fields['place_of_birth'].required = False
         self.fields['guardian_name'].required = False
-        self.fields['guardian_contact'].required = False
+        # self.fields['guardian_contact'].required = False
+        self.fields['guardian_contact'].initial = '+254'
 
     # Add additional validation if needed
     def clean(self):
         cleaned_data = super().clean()
-        
-        # Perform custom validation here
-        
         return cleaned_data
+    
+    def clean_samaritan_contact(self):
+        contact = self.cleaned_data['guardian_contact']
+        # Regular expression to match Kenyan phone numbers with or without the country code
+        phone_regex = re.compile(r'^(\+254)?[0-9]{9}$')
+        if not phone_regex.match(contact):
+            raise forms.ValidationError(
+                "Please enter a valid Kenyan phone number.",
+                code='invalid_phone_number'
+            )
+        return contact
     
     
 class FoundPersonForm(forms.ModelForm):
@@ -72,9 +84,25 @@ class FoundPersonForm(forms.ModelForm):
         # Set required attribute for non-mandatory fields to False
         self.fields['name'].required = False
         self.fields['samaritan_name'].required = False
-        self.fields['samaritan_contact'].required = False
+        # self.fields['samaritan_contact'].required = False
+        self.fields['samaritan_contact'].initial = '+254'
+        
+        self.fields['date_found'].widget.attrs['max'] = str(datetime.date.today())
+
 
     # Add additional validation if needed
     def clean(self):
         cleaned_data = super().clean()        
         return cleaned_data
+    
+    def clean_samaritan_contact(self):
+        contact = self.cleaned_data['samaritan_contact']
+        # Regular expression to match Kenyan phone numbers with or without the country code
+        phone_regex = re.compile(r'^(\+254)?[0-9]{9}$')
+        if not phone_regex.match(contact):
+            raise forms.ValidationError(
+                "Please enter a valid Kenyan phone number.",
+                code='invalid_phone_number'
+            )
+        return contact
+

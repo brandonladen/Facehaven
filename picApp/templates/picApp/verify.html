@@ -29,9 +29,9 @@
     <div id="loadingModal" class="modal" style="display: none;">
       <div class="modal-content">
           <h2>Loading...</h2>
-          <div class="loading-spinner"></div>
-          <p>Searching for similar images. Please wait...</p>
-          <!-- You can also display the amount of time to be searched -->
+          <p id="search_msg" class="sr-only">Searching for similar match. Please wait...</p>
+          <p id="timer">Estimated time remaining: </p>
+          <p id="completionMessage" style="display: none;">Hang tight! We're compiling and sorting the results...</p>
       </div>
   </div>
   
@@ -64,7 +64,7 @@
           <form id="searchForm" action="{% url 'search_child' %}" method="post" enctype="multipart/form-data">
               {% csrf_token %}
               <input type="hidden" name="image" id="imageInput">
-              <button type="button" id="searchButton" class="btn">Search</button>
+              <button type="button" id="searchButton" class="btn">Search In Missing Person's Table</button>
           </form>
            {% comment %} <a href="{% url 'search_child' %}"><button class="btn">Search</button></a> {% endcomment %}
            <button class="btn" onclick="openModal()">Delete</button>
@@ -109,6 +109,53 @@
             closeModal();
           }
         }
-      </script>
+
+
+
+
+
+
+
+
+
+
+        // Calculate the average time in milliseconds
+var averageTime = 33.248 * 1000; // Convert seconds to milliseconds
+
+// Get the current time
+var startTime = Date.now();
+
+// Function to update the timer
+function updateTimer() {
+    // Calculate the elapsed time
+    var elapsedTime = Date.now() - startTime;
+
+    // Calculate the estimated time remaining
+    var estimatedTimeRemaining = Math.max(averageTime - elapsedTime, 0);
+
+    // Convert milliseconds to seconds and round to 2 decimal places
+    var remainingSeconds = Math.round(estimatedTimeRemaining / 1000 * 100) / 100;
+
+    // Update the content of the timer element
+    document.getElementById("timer").textContent = "Estimated time remaining: " + remainingSeconds + " seconds";
+
+    // Check if the estimated time remaining is greater than 0
+    if (estimatedTimeRemaining > 0) {
+        // Schedule the next update in 1 second
+        setTimeout(updateTimer, 1000);
+    }else {
+      // Hide the timer
+      document.getElementById("timer").style.display = "none";
+
+      document.getElementById("search_msg").style.display = "none";
+      // Show the completion message
+      document.getElementById("completionMessage").style.display = "block";
+  }
+}
+
+// Call the updateTimer function to start updating the timer
+updateTimer();
+
+    </script>
 </body>
 </html>

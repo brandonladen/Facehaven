@@ -90,7 +90,7 @@ def found_person(request): #found person
 
 
 @login_required
-def search_child(request):
+def search_missing_person(request): #search_missing_person
     if request.method == 'POST':
         # image = request.FILES['image']
         image_url = request.POST.get('image')
@@ -130,6 +130,8 @@ def search_child(request):
                 distance = float(distance)
                 similarity_percentage = round(1 / (1 + distance) * 100, 2)
                 if similarity_percentage > 10:
+                    if similarity_percentage == 100:
+                        continue
                     similar_children.append((child, similarity_percentage))
 
         # Clean up the temporary file
